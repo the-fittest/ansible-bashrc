@@ -1,0 +1,7 @@
+---
+# defaults file for bashrc
+bashrc_scripts: []
+
+bashrc_packages: []
+
+bashrc_additional_packages: []

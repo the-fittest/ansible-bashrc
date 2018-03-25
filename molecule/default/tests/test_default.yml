@@ -1,0 +1,17 @@
+---
+
+file:
+  /root/.bashrc:
+    # required attributes
+    exists: true
+    # optional attributes
+    mode: "0600"
+    owner: root
+    group: root
+  /root/.bashrc.d:
+    # required attributes
+    exists: true
+    # optional attributes
+    mode: "0755"
+    owner: root
+    group: root
